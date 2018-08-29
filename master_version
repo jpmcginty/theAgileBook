@@ -9,6 +9,7 @@ The reality for many organisations that are running agile the uplift they were e
 
 In this book we document how Agile got to this and ponder if Agile will actually make the world a better place or just continue to use a lot of stationary and Lego. The information you read here is sourced as best as possible but it doesn't go out its way to interview so called Agile gurus. The opinions expressed are those of the author.
 
+
 The Agile Movement
 
 Search Google for "when did Agile start" and you will get as your first result the agilemanifesto.org the date of Feb 11-13 2001. To be more precise it was Feb 13 when a meeting ended between 17 people who had agreed on a set of four values and the outline of 12 core principles. The reason why it was started here is the agreement of the 17 to not only agree to what they had worked on but to form the Agile Alliance from which all the Agile confusion comes. This is one of the key differences that has allowed Agile to be a rallying cry for the burnout developer for better working conditions to a commercial change package that would solve all ills just like Lean 10 years before it. It wasn't a framework, method, pattern, structure but a movement with an alliance. 
@@ -16,7 +17,7 @@ Search Google for "when did Agile start" and you will get as your first result t
 The details of what went on before and after the meeting at The Lodge, Snowbird, Feb 11-13, 2001
 17 people turned up at Snowbird in Feb 2001 that went on to publish the Agile Manifesto for Software Development. This is the story on how they got there and why they were there.
 
-The people that attended all had an interest in lighter, simpler ways of developing software within organizations. All had worked within organizations which had huge software and therefore product delays so they had come up with ways to make the development more effective. The meeting itself was called the Lightweight Methods Meeting *confirm* representing methods that were not widely used. The following methods were present: Adaptive Software Development (ASD), Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Dynamic System Development Method (DSDM) along with attendees that hadn't created a method but where vocal is the world of needing better ways of developing software including testing and Model Driven Development. All these methods would be classified as Agile methods after the meeting.
+The people that attended all had an interest in lighter, simpler ways of developing software within organizations. All had worked within organizations which had huge software and therefore product delays so they had come up with ways to make the development more effective. The meeting itself was called the Lightweight Methods Meeting *confirm* representing methods that were not widely used. The following methods were present: Adaptive Software Development (ASD), Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Dynamic System Development Method (DSDM) along with attendees that hadn't created a method but where vocal is the world of needing better ways of developing software including testing and Model Driven Development. All these methods would be classified as Agile methods after the meeting (See Methods and Key Players). But the 17 people and the six methods where not equal in the amount of weight they had in the corporate world. Also the 17 weren't the only people that were invited just the 17 that turned up. To understand how we get to Agile today we need to understand the methods and players at the time and how they were formed and from there why some have become dominate and some largely forgotten. To begin with we turn to today's dominant framework from which all agile frameworks are based - Scrum.
 
 Method: Adpative Software Development (ASD)
 Key Players present: Jim Highsmith
@@ -39,7 +40,15 @@ Key Players present: Mike Beedle, Ken Schwaber, Jeff Sutherland
 Method: None (not a method)
 Key Players present: Dave Thomas (prag), Andrew Hunt, Brian Marick, Stephen Mellor
 
+
+
+
+The Agile Alliance
+The Scrum Alliance
+Certification
+
 Scaling Agile - the fight to kill Agile
+Agile is now is
 
 DevOps - XP is back but don't call it XP.
 
