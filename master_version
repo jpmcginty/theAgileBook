@@ -1,14 +1,18 @@
 The Agile Book
 Tracking the history of the Agile movement from the founders to today's world of Agile
 
+Introduction - The Agile Agile Product Development Game
+
 Today the world has gone Agile. If you want to improve just about anything then there is an Agile group or expert that will help you become Agile in your work and life. Walk into many organization that is building products with software and you'll find Scrum Masters or ScrumMasters along with Product Owners (never seen ProductOwners) with backlogs and burndowns fight for attention. Those that are not doing Scrum have branched out to the dizzing world of Kanban where everything is flowing and visible but they have given up on Scrum but not told anyone. Further up the organisation you may see scaled agile which has manage to tell teams how to work in sync perhaps to three month phases with just enough money to not actually finish anything. For those that have gone off reservation, have grown a beard, moved to a big city and refuse to use Jira are running DevOps without care or cander to the world outside of their continuous pipeline.
 
-The reality for many organisations that are running agile the uplift they were expecting have not yet manifested themselves. The answer to not seeing improvements when using agile are the same as the bloodletters of the past medicine: do more; you are not being agile enough, throw off the constraints of the organisation then self-form into super-productive teams powered on the simple fuel of autonmny, purpose and mastery. The truth behind Agile is that it for some organisations Agile practices and cultures are very powerful. However these practices and cultures where around before a late weekend skiing trip in Snowbird one February in 2001 and many who haven't heard or Agile continue to operate 
+The reality for many organisations that are running agile the uplift they were expecting have not yet manifested themselves. The answer to not seeing improvements when using agile are the same as the bloodletters of the past medicine: do more; you are not being agile enough, throw off the constraints of the organisation then self-form into super-productive teams powered on the simple fuel of autonmny, purpose and mastery. The truth behind Agile is that it for some organisations Agile practices and cultures are very powerful. However these practices and cultures where around before a late weekend skiing trip in Snowbird one February in 2001 and many who haven't heard or Agile continue to operate. Companies that reject Agile and continue to work using 'Waterfall' still refuse to die but continue to work just as well by treating their staff well along with executing strategies well.
 
-Major sections
-1. Snowbird
+In this book we document how Agile got to this and ponder if Agile will actually make the world a better place or just continue to use a lot of stationary and Lego. The information you read here is sourced as best as possible but it doesn't go out its way to interview so called Agile gurus. The opinions expressed are those of the author.
 
-Summary
+The Agile Movement
+
+Search Google for "when did Agile start" and you will get as your first result the agilemanifesto.org the date of Feb 11-13 2001. To be more precise it was Feb 13 when a meeting ended between 17 people who had agreed on a set of four values and the outline of 12 core principles. The reason why it was started here is the agreement of the 17 to not only agree to what they had worked on but to form the Agile Alliance from which all the Agile confusion comes. This is one of the key differences that has allowed Agile to be a rallying cry for the burnout developer for better working conditions to a commercial change package that would solve all ills just like Lean 10 years before it. It wasn't a framework, method, pattern, structure but a movement with an alliance. 
+
 The details of what went on before and after the meeting at The Lodge, Snowbird, Feb 11-13, 2001
 17 people turned up at Snowbird in Feb 2001 that went on to publish the Agile Manifesto for Software Development. This is the story on how they got there and why they were there.
 
