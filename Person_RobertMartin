@@ -1,0 +1,41 @@
+# Robert Martin
+
+Agile Recollection
+
+ The Founding of the Agile Alliance
+
+Posted by Uncle Bob on 07/10/2007
+
+These are my own personal recollections. I’m probably wrong about some of it. If any of the other folks involved have a clearer memory of the events, please don’t hesitate to comment.
+
+In the spring of 2000 Kent Beck called a meeting at the Rogue River Lodge near his home in Medford, Oregon. He called it the Extreme Programming Leadership Conference. In attendance were: myself, Ron Jeffries, Ken Auer, Martin Fowler, and several others who had been instrumental in getting the XP movement off the ground.
+
+In one of the sessions we discussed the creation of an organization to drive and support the adoption of XP. This was an idea that I argued in favor of. It seemed to me that the industry would benefit from a body who promoted the ideas of lightweight methods like XP. However, the idea was not met with enthusiasm amongst many of the other attendees. The session turned into a collection of painful reminiscences about a previous attempt at creating an organization around the Patterns movement. I came away convinced that a different group of people would have to drive the creation of such an organization.
+
+Apparently I was not alone. Martin Fowler had noticed the arguments I had made in the session, and approached me during a break. We briefly discussed the idea of broadening the scope of the proposed organization to all the various “lightweight methods” such as Scrum and Crystal Light. We felt that the folks who espoused these methods would have a lot to add, and could form the core of a comprehensive movement. Martin and I determined to meet a few weeks later to work out the details.
+
+In the meantime I contacted my friend and advisor Dave Thomas of OTI fame. (We call him “Big Dave” to differentiate him from the Pragmatic Programmer of the same name.) I mentioned the notion of a Lightweight Methods Summit. We put a tentative invitation list together. Dave suggested that we meet in February at his winter home in Anguilla.
+
+Later that fall I met with Martin at a cafe in Chicago. We added to the invitation list and outlined the invitation email. The invitation stated the goal of creating a manifesto describing what all the various lightweight methods had in common. I sent the email that evening.
+
+The Lightweight Process Summit invitation drew an enthusiastic response from the invitees. Alistair Cockburn was especially interested. As it happened, he was on the verge of sending out his own invitation for a similar event. His comment to me was: “Your invitation list was better than mine”. The two invitation lists were merged, and the discussion of logistics began.
+
+Alistair became the de-facto organizer. He suggested that we change the venue from Anquilla to Snowbird in Salt Lake City. Almost all the other invitees agreed because the flights would be easier. Alistair and Jim Highsmith did the leg-work to arrange the rooms, meals, and activities. Things came together rapidly.
+
+The meeting was very well attended by 17 out of ~20 invitees. (See www.agilemanifesto.org to see the list of attendees.) Unfortunately neither Grady Booch nor Big Dave Thomas were able to make it. However, their influence was strongly felt in the subsequent discussions.
+
+I kicked off the meeting with a brief introduction and an appeal to the similarities between all the various lightweight processes. I reaffirmed that the goal of our two day meeting was to create a manifesto that outlined those similarities. This was to be a document, addressed to the industry at large, describing our views about the process of creating useful software.
+
+Martin Fowler and Ward Cunningham quickly became the de-facto facilitators of the meeting. With their help we quickly worked out an agenda for the two days, and a method for making decisions.
+
+It was actually quite a thrill to see all these people with disparate ideas working together so well. I don’t think I’ve ever been to a meeting that stayed on point and met it’s goals with such ease and with so little conflict. It was as though the pieces just somehow fell together.
+
+One of the early discussions was about a name. No one liked the term Lightweight. Several other options were suggested, including Lean, and Adaptive. But the name Agile won the day.
+
+The structure of the manifesto was mutually agreed; I recall that Ward played a big part framing the idea of pairs of relative value, but it may have been Martin and Pragmatic Dave Thomas who came up with the idea. Here’s PragDave’s recollection:
+
+    Actually, that was Martin and me, noodling on the whiteboard over lunch. I think we came up with the initial three. The group that then formed took it up to five, and that was then pruned down to four. In fact, Ward took the picture of everyone discussing the idea that now adorns his manifesto site.
+
+By the end of the two days in Snowbird, the manifesto was done, the principles were outlined, and the Agile Alliance had been born. Much more would need to be done before there would be a true legal entity with a board and members, but that’s a story for another time.
+
+For another version of this history see Jim Highsmith’s description at http://www.agilemanifesto.org/history.html
